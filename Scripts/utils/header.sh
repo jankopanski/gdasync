@@ -29,7 +29,7 @@
 
 # ======== ENV VARS - Need to be configured ========
 export PREFIX="$HOME/gdasync"
-export MPI_PATH="/usr/mpi/gcc/openmpi-3.1.0rc2"
+export MPI_PATH="/usr/mpi/gcc/openmpi-3.1.1rc1"
 export CUDA_PATH="/usr/local/cuda-9.2"
 # ==================================================
 

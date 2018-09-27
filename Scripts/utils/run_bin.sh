@@ -100,7 +100,7 @@ $MPI_HOME/bin/mpirun -verbose  $OMPI_params   	\
         -x KERNEL_TIME=$TIME 			\
         -x MAX_SIZE=$SIZE 			\
         -x USE_GPU_BUFFERS=0 			\
-        -x ENABLE_VALIDATION=0 			\
+        -x ENABLE_VALIDATION=1 			\
         \
         -x COMM_USE_COMM=$COMM 			\
         -x COMM_USE_ASYNC_SA=$COMM_SA 		\
